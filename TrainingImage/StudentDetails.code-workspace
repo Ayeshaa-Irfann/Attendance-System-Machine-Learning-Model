@@ -1,0 +1,29 @@
+{
+  "folders": [
+	{
+		"name": "StudentDetails",
+		"path": "../../Attendence System Model/StudentDetails"
+	},
+	{
+		"name": "TrainingImage",
+		"path": "../../Attendence System Model/TrainingImage"
+	},
+	{
+		"name": "TrainingImageLabel",
+		"path": "../../Attendence System Model/TrainingImageLabel"
+	},
+	{
+		"name": "ImagesUnknown",
+		"path": "../../Attendence System Model/ImagesUnknown"
+	},
+	{
+		"name": "Attendance-System-Machine-Learning-Model",
+		"path": ".."
+	},
+	{
+		"name": ".git",
+		"path": "../../Attendence System Model/.git"
+	}
+],
+  "settings": {}
+}
